@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 
 """
-fazendo teste
+fazendo merge com conflito
 """
 
 # Importações
